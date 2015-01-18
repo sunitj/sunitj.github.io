@@ -21,7 +21,7 @@ You can also find a complete list of my publications, [here](http://www.sunitjai
 I'm always looking for new opportunities. If you have questions that you think I may help you with, I encourage you to contact me through the form [here](http://www.sunitjain.com/contact).
 
 
-=====
+-----
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
@@ -29,4 +29,4 @@ You can find the source code for the Jekyll new theme at: [github.com/jglovier/j
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
 
-=====
+-----
