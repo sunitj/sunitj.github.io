@@ -13,19 +13,20 @@ With over 4 years of experience analyzing Meta-omics and Comparative Genomic dat
 * 'Studying potential drug targets for M.tb' 
 * 'Studying novel nitrite oxidizers in the deep sea' 
 * 'Analyzing meta-omic data for novel organisms with the goal of finding new drug candidates for infectious diseases and cancers' 
-'Meta-omic study of the Mid-Cayman Rise hydrothermal vent systems, some of the deepest in the world' 
+* 'Meta-omic study of the Mid-Cayman Rise hydrothermal vent systems, some of the deepest in the world' 
 * [and many more](http://www.sunitjain.com/projects).
 
 You can also find a complete list of my publications, [here](http://www.sunitjain.com/publications), with many more on their way.
 
-I'm always looking for new opportunities. If you have questions that you think I can help you with, I encourage you to contact me through the form [here](http://www.sunitjain.com/contact).
+I'm always looking for new opportunities. If you have questions that you think I may help you with, I encourage you to contact me through the form [here](http://www.sunitjain.com/contact).
 
 
-----
-
+=====
 
 This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
 You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
 You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+
+=====
