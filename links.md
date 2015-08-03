@@ -4,6 +4,8 @@ title: Links
 permalink: /links/
 ---
 
+Updated: August 3, 2015
+
 ## Tutorials
 
 ### Basics
@@ -19,25 +21,33 @@ permalink: /links/
 
 ---
 
-## Cheat Sheets
+## Scripting aka `Getting $#!+ done!`
 
 ### Bash
 - [Reference](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 
 ### Perl
-- [Reference](http://michaelgoerz.net/refcards/perl_refcard.pdf)
-- [RegEx](http://www.cheat-sheets.org/saved-copy/perl-regexp-refcard-a4.pdf)
+- [Reference](http://perldoc.perl.org/)
+- [Cheat Sheet](http://michaelgoerz.net/refcards/perl_refcard.pdf)
+- [RegEx Cheat Sheet](http://www.cheat-sheets.org/saved-copy/perl-regexp-refcard-a4.pdf)
 
 ### R
 - [The Hadleyverse](https://barryrowlingson.github.io/hadleyverse/#1)
-- [R Studio](https://www.rstudio.com/resources/cheatsheets/)
+- [Cheat Sheets](https://www.rstudio.com/resources/cheatsheets/)
+- [Meta CRAN](http://www.r-pkg.org/)
 
 ### Python
-- [Reference](http://www.cheatography.com/davechild/cheat-sheets/python/)
+- [Reference](https://docs.python.org/2/reference/)
+- [Cheat Sheet](http://www.cheatography.com/davechild/cheat-sheets/python/)
 - [Tutorial](http://learnpythonthehardway.org/)
 
+### SQLite
+- [Reference](https://www.sqlite.org/docs.html)
+- [Tutorial](http://zetcode.com/db/sqlite/)
+
 ### Neo4j
-- [Reference](http://neo4j.com/docs/stable/cypher-refcard/)
+- [Reference](http://neo4j.com/docs/stable/)
+- [Cheatsheet](http://neo4j.com/docs/stable/cypher-refcard/)
 - [Gist](http://gist.neo4j.org/)
 
 ---
@@ -50,6 +60,7 @@ permalink: /links/
 ---
 
 ## Blogs/News
+
 ### Bioinformatics
 - [Homolog.us](http://www.homolog.us/blogs/)
 - [Getting Genetics Done](http://www.gettinggeneticsdone.com/)
@@ -64,4 +75,3 @@ permalink: /links/
 - [R Bloggers](http://www.r-bloggers.com/)
 - [Flowing Data](https://flowingdata.com/)
 - [Minimaxir](http://minimaxir.com/)
-- [Meta CRAN](http://www.r-pkg.org/)
