@@ -21,7 +21,7 @@ Updated: August 3, 2015
 
 ---
 
-## Scripting aka `Getting $#!+ done!`
+## Getting $#!+ done!
 
 ### Bash
 - [Reference](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
@@ -56,6 +56,7 @@ Updated: August 3, 2015
 - [Oneliners](https://github.com/stephenturner/oneliners)
 - [Practice Problems](http://rosalind.info/problems/locations/)
 - [/r/learnbioinformatics](http://www.reddit.com/r/learnbioinformatics)
+- [SEQanswers](http://seqanswers.com)
 
 ---
 
