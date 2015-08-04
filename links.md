@@ -8,8 +8,7 @@ Updated: August 3, 2015
 
 ## Tutorials
 
-### Basics
-- [Software Carpentry](http://swcarpentry.github.io/shell-novice/)
+- [Software Carpentry](http://software-carpentry.org/lessons.html)
 	- [Shell](http://swcarpentry.github.io/shell-novice/)
 	- [Make](http://swcarpentry.github.io/make-novice/)
 	- [Git](http://swcarpentry.github.io/git-novice/)
@@ -21,10 +20,11 @@ Updated: August 3, 2015
 
 ---
 
-## Getting $#!+ done!
+## Getting $#&iexcl;&#8224; done!
 
 ### Bash
-- [Reference](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
+- [Reference](http://tldp.org/)
+- [Cheat Sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 
 ### Perl
 - [Reference](http://perldoc.perl.org/)
@@ -47,7 +47,7 @@ Updated: August 3, 2015
 
 ### Neo4j
 - [Reference](http://neo4j.com/docs/stable/)
-- [Cheatsheet](http://neo4j.com/docs/stable/cypher-refcard/)
+- [Cheat Sheet](http://neo4j.com/docs/stable/cypher-refcard/)
 - [Gist](http://gist.neo4j.org/)
 
 ---
